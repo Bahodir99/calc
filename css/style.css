@@ -58,22 +58,22 @@ body{
     1%{
         border-color: yellow;
         box-shadow: 1px 1px 5px 4px green;
-        transform: rotate(20deg);
+        transform: rotate(10deg);
     }
     25%{
         border-color: rgb(247, 37, 198);
         box-shadow: 1px 1px 5px 4px rgb(253, 179, 19);
-        transform: rotate(40deg);
+        transform: rotate(20deg);
     }
     40%{
         box-shadow: 1px 1px 5px 4px cyan;
         border-color: white;
-        transform: rotate(-40deg);
+        transform: rotate(-20deg);
     }
     70%{
         box-shadow: 1px 1px 5px 4px crimson;
         border-color: blue;
-        transform: rotate(-20deg);
+        transform: rotate(-10deg);
     }
     100%{
         box-shadow: 1px 1px 5px 4px crimson;
