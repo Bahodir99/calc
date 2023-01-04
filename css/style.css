@@ -42,8 +42,8 @@ body{
 .list__item{
     border: 3px solid #000;
     border-radius: 10px;
-    width: 260px;
-    height: 330px;
+    width: 200px;
+    height: 300px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
